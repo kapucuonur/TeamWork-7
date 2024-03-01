@@ -1,0 +1,61 @@
+.tasıcıyı{
+    display: flex;
+    flex-direction: column;
+color: coral;
+    margin: 50px auto;
+    width: 60rem;
+    /* height: 20rem; */
+    /* border: 2px solid red; */
+    background-color: beige;
+        justify-content: center;
+    align-items: center;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+.kutu{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.gönder{
+    width: 100px;
+    margin-top: 40px;
+    height: 30px;
+    border-radius: 10px;
+    color: rgb(103, 155, 155);
+background-color: rgba(210, 105, 30, 0.53);
+border: 2px solid ;
+}
+.reset{
+    width: 100px;
+    margin-top: 40px;
+    height: 30px;
+    border-radius: 10px;
+    color: rgb(103, 155, 155);
+background-color: rgba(210, 105, 30, 0.53);
+border: 2px solid ;
+}
+.input{
+margin-top: 50px;
+width: 300px;
+height: 60px;
+/* border-radius: 10px; */
+color: rgb(103, 155, 155);
+background-color: rgba(210, 105, 30, 0.53);
+border: 2px solid ;
+}
+.baslık{
+    color: rgb(11, 31, 31);
+}
+body{
+    background-color: bisque;
+}
+.buton{
+    width: 100px;
+    margin-top: 40px;
+    height: 30px;
+    border-radius: 10px;
+    color: rgb(103, 155, 155);
+background-color: rgba(210, 105, 30, 0.53);
+border: 2px solid ;
+}
